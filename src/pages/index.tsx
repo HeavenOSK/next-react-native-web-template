@@ -1,7 +1,8 @@
-import type {NextPage} from 'next'
+import { Text } from 'react-native'
+import type { NextPage } from 'next'
 
 const Home: NextPage = () => {
-  return <></>
+  return <Text>text</Text>
 }
 
 export default Home
